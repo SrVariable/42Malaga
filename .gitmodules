@@ -1,0 +1,3 @@
+[submodule "Piscine"]
+	path = Piscine
+	url = git@github.com:SrRecursive/Piscine.git
