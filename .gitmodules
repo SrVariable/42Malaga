@@ -1,3 +1,6 @@
 [submodule "Piscine"]
 	path = Piscine
 	url = git@github.com:SrRecursive/Piscine.git
+[submodule "Cursus"]
+	path = Cursus
+	url = git@github.com:SrRecursive/Cursus.git
