@@ -1,6 +1,6 @@
-# 42
+# 42 Málaga
 
-This is my progress in 42
+This is my progress in 42 Málaga
 
 ## Table of Projects
 
