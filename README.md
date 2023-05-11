@@ -1,34 +1,149 @@
+<!-- Title -->
+
 # 42 Málaga
 
 This is my progress in 42 Málaga
 
-## Table of Projects
+<!-- Cursus -->
 
-## Cursus
+### Cursus
 
-|	Project																								|	Description																					|	
-|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|	
-|	[LIBFT](https://github.com/SrRecursive/Cursus/tree/main/libft)										| 	Creates a library with recreated functions													|
+<table>
+	<tr>
+		<td align = "center"><strong>Ring</strong></td>
+		<td align = "center"><strong>Project</strong></td>
+		<td><strong>Description</strong></td>
+		<td align = "center"><strong>Status</strong></td>
+	</tr>
+	<tr>
+		<td align = "center"><strong>1</strong></td>
+		<td align = "center"><a href = "https://github.com/SrRecursive/libft">libft</a></td>
+		<td>Recreates some functions from libc, plus some additional functions</td>
+		<td align = "center">[<strong>Finished</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><strong>2</strong></td>
+		<td align = "center"><a href = "https://github.com/SrRecursive/printf">printf</a></td>
+		<td>Recreates the function printf</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><strong>2</strong></td>
+		<td align = "center"><a href = "https://github.com/SrRecursive/get_next_line">get_next_line</a></td>
+		<td>Reads a file line by line</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><strong>2</strong></td>
+		<td align = "center">Born2beroot</td>
+		<td>Creates a Virtual Machine</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+</table>
 
-## Piscine
+<!-- Piscine -->
 
-|	Project																								|	Description																					|	
-|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|	
-|	[C00](https://github.com/SrRecursive/Piscine/tree/main/C00)											|	Project C00																					|
-|	[C01](https://github.com/SrRecursive/Piscine/tree/main/C01)											|	Project C01																					|
-|	[C02](https://github.com/SrRecursive/Piscine/tree/main/C02)											|	Project C02																					|
-|	[C03](https://github.com/SrRecursive/Piscine/tree/main/C03)											|	Project C03																					|
-|	[C04](https://github.com/SrRecursive/Piscine/tree/main/C04)											|	Project C04																					|
-|	[C05](https://github.com/SrRecursive/Piscine/tree/main/C05)											|	Project C05																					|
-|	[C06](https://github.com/SrRecursive/Piscine/tree/main/C06)											|	Project C06																					|
-|	[C07](https://github.com/SrRecursive/Piscine/tree/main/C07)											|	Project C07																					|
-|	[C08](https://github.com/SrRecursive/Piscine/tree/main/C08)											|	Project C08																					|
-|	[C09](https://github.com/SrRecursive/Piscine/tree/main/C09)											|	Project C09																					|
-|	[C10](https://github.com/SrRecursive/Piscine/tree/main/C10)											|	Project C10																					|
-|	[C11](https://github.com/SrRecursive/Piscine/tree/main/C11)											|	Project C11																					|
-|	[C12](https://github.com/SrRecursive/Piscine/tree/main/C12)											|	Project C12																					|
-|	[C13](https://github.com/SrRecursive/Piscine/tree/main/C13)											|	Project C13																					|
-|	[Rush00](https://github.com/SrRecursive/Piscine/tree/main/Rush00)									|	Project Rush00																				|
-|	[Rush01](https://github.com/SrRecursive/Piscine/tree/main/Rush01)									|	Project Rush01																				|
-|	[Rush02](https://github.com/SrRecursive/Piscine/tree/main/Rush02)									|	Project Rush02																				|
-|	[BSQ](https://github.com/SrRecursive/Piscine/tree/main/BSQ)											|	Project BSQ																					|
+### Piscine
+
+<table>
+	<tr>
+		<td align = "center"><strong>Project</strong></td>
+		<td align = "center"><strong>Description</strong></td>
+		<td align = "center"><strong>Status</strong></td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C00">C00</a></td>
+		<td align = "center">Project C00</td>
+		<td align = "center">[<strong>Finished</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C01">C01</a></td>
+		<td align = "center">Project C01</td>
+		<td align = "center">[<strong>Finished</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C02">C02</a></td>
+		<td align = "center">Project C02</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C03">C03</a></td>
+		<td align = "center">Project C03</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C04">C04</a></td>
+		<td align = "center">Project C04</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C05">C05</a></td>
+		<td align = "center">Project C05</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C06">C06</a></td>
+		<td align = "center">Project C06</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C07">C07</a></td>
+		<td align = "center">Project C07</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C08">C08</a></td>
+		<td align = "center">Project C08</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C09">C09</a></td>
+		<td align = "center">Project C09</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C10">C10</a></td>
+		<td align = "center">Project C10</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C11">C11</a></td>
+		<td align = "center">Project C11</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+		<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C12">C12</a></td>
+		<td align = "center">Project C12</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/C13">C13</a></td>
+		<td align = "center">Project C13</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/Rush00">Rush00</a></td>
+		<td align = "center">Project Rush00</td>
+		<td align = "center">[<strong>Finished</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/Rush01">Rush01</a></td>
+		<td align = "center">Project Rush01</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/Rush02">Rush02</a></td>
+		<td align = "center">Project Rush02</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+	<tr>
+		<td align = "center"><a href = "https://github.com/SrRecursive/Piscine/tree/main/BSQ">BSQ</a></td>
+		<td align = "center">Project BSQ</td>
+		<td align = "center">[<strong>In Progress</strong>]</td>
+	</tr>
+</table>
+
+**NOTE:**
+The Piscine repository is currently private
+
+
