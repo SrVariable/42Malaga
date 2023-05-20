@@ -4,3 +4,6 @@
 [submodule "Cursus"]
 	path = Cursus
 	url = git@github.com:SrRecursive/Cursus.git
+[submodule "DiscoveryWeb"]
+	path = DiscoveryWeb
+	url = git@github.com:SrRecursive/DiscoveryWeb.git
