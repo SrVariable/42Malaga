@@ -53,28 +53,28 @@ This is my progress in 42 Málaga
 		<td align="center"><strong>Status</strong></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/SrRecursive/DiscoveryWeb/tree/main/discovery_piscine/cell0"></a></td>
-		<td align="center">Cell 0</td>
+		<td align="center"><a href="https://github.com/SrRecursive/DiscoveryWeb/tree/main/discovery_piscine/cell0"></a>Cell 0</td>
+		<td align="center">Project Cell 0</td>
 		<td align="center">[<strong>Finished</strong>]</td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/SrRecursive/DiscoveryWeb/tree/main/discovery_piscine/cell1"></a></td>
-		<td align="center">Cell 1</td>
+		<td align="center"><a href="https://github.com/SrRecursive/DiscoveryWeb/tree/main/discovery_piscine/cell1">Cell 1</a></td>
+		<td align="center">Project Cell 1</td>
 		<td align="center">[<strong>Finished</strong>]</td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/SrRecursive/DiscoveryWeb/tree/main/discovery_piscine/cell2"></a></td>
-		<td align="center">Cell 2</td>
+		<td align="center"><a href="https://github.com/SrRecursive/DiscoveryWeb/tree/main/discovery_piscine/cell2">Cell 2</a></td>
+		<td align="center">Project Cell 2</td>
 		<td align="center">[<strong>Finished</strong>]</td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/SrRecursive/DiscoveryWeb/tree/main/discovery_piscine/cell3"></a></td>
-		<td align="center">Cell 3</td>
+		<td align="center"><a href="https://github.com/SrRecursive/DiscoveryWeb/tree/main/discovery_piscine/cell3">Cell 3</a></td>
+		<td align="center">Project Cell 3</td>
 		<td align="center">[<strong>Finished</strong>]</td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/SrRecursive/DiscoveryWeb/tree/main/discovery_piscine/cell4"></a></td>
-		<td align="center">Cell 4</td>
+		<td align="center"><a href="https://github.com/SrRecursive/DiscoveryWeb/tree/main/discovery_piscine/cell4">Cell 4</a></td>
+		<td align="center">Project Cell 4</td>
 		<td align="center">[<strong>Finished</strong>]</td>
 	</tr>
 </table>
