@@ -53,7 +53,7 @@ This is my progress in 42 Málaga
 		<td align="center"><strong>Status</strong></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://github.com/SrRecursive/DiscoveryWeb/tree/main/discovery_piscine/cell0"></a>Cell 0</td>
+		<td align="center"><a href="https://github.com/SrRecursive/DiscoveryWeb/tree/main/discovery_piscine/cell0">Cell 0</a></td>
 		<td align="center">Project Cell 0</td>
 		<td align="center">[<strong>Finished</strong>]</td>
 	</tr>
