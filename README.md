@@ -25,7 +25,7 @@ This is my progress in 42 Málaga
 		<td align="center"><strong>2</strong></td>
 		<td align="center"><a href="https://github.com/SrRecursive/printf">printf</a></td>
 		<td>Recreates the function printf</td>
-		<td align="center">[<strong>In Progress</strong>]</td>
+		<td align="center">[<strong>Pending Correction</strong>]</td>
 	</tr>
 	<tr>
 		<td align="center"><strong>2</strong></td>
