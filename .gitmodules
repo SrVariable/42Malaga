@@ -1,9 +1,9 @@
 [submodule "Piscine"]
 	path = Piscine
-	url = git@github.com:SrRecursive/Piscine.git
+	url = git@github.com:SrVariable/Piscine.git
 [submodule "Cursus"]
 	path = Cursus
-	url = git@github.com:SrRecursive/Cursus.git
+	url = git@github.com:SrVariable/Cursus.git
 [submodule "DiscoveryWeb"]
 	path = DiscoveryWeb
-	url = git@github.com:SrRecursive/DiscoveryWeb.git
+	url = git@github.com:SrVariable/DiscoveryWeb.git
